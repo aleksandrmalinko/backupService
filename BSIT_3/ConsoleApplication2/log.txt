@@ -1,0 +1,52 @@
+Success start service!
+Success start service!
+Success start service!
+Success remove service!
+Success install service!
+Success start service!
+Error: Can't start service
+Error: Can't start service
+Success stop service!
+Success start service!
+Success remove service!
+Error: Undefined
+Error: Undefined
+Success remove service!
+Error: Undefined
+Success install service!
+Success start service!
+Success stop service!
+Success remove service!
+Success start service!
+Success remove service!
+Success install service!
+Success start service!
+Success stop service!
+Success start service!
+Success stop service!
+Success start service!
+Error: Can't open Service Control Manager
+Error: Can't open Service Control Manager
+Error: Can't open Service Control Manager
+Success remove service!
+Success install service!
+Success start service!
+Success remove service!
+Success install service!
+Success start service!
+Success stop service!
+Success start service!
+Success stop service!
+Success start service!
+Error: Can't start service
+Success stop service!
+Success start service!
+Success remove service!
+Success stop service!
+Error: Can't remove service
+Success install service!
+Success start service!
+Success stop service!
+Success start service!
+Success remove service!
+Success install service!
